@@ -12,7 +12,7 @@
 
 
 **Currently learning**
-> *Multi threading*
+> *React*
 
 ## More
 Currently developing at [ProjectKorra](https://github.com/ProjectKorra/ProjectKorra/)
