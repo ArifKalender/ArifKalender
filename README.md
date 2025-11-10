@@ -12,7 +12,7 @@
 
 
 **Currently learning**
-> *React*
+> *Flutter, Dart*
 
 ## More
 Currently developing at [ProjectKorra](https://github.com/ProjectKorra/ProjectKorra/)
