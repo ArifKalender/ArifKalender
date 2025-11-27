@@ -3,8 +3,13 @@
 ## About
 
 
-**Languages**
-> Java, C#
+**Tech**
+> Languages:
+* Java, C#
+> OS
+* Windows, Ubuntu, Debian
+> Tools
+* Git, Maven, Bash
 
 
 **Interests**
@@ -12,7 +17,7 @@
 
 
 **Currently learning**
-> *Flutter, Dart*
+> Procedural Generation
 
 ## More
 Currently developing at [ProjectKorra](https://github.com/ProjectKorra/ProjectKorra/)
